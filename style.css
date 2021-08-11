@@ -32,7 +32,10 @@
 }
 
 body {
-    background: linear-gradient(to right,rgba(40, 134, 228, 0.5), rgba(9, 32, 56, 0.5));
+    background: linear-gradient(#bdc3c7, #2c3e50);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 .container {
